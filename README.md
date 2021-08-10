@@ -4,7 +4,7 @@ Swift - CircleChart UI
 ```swift
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     @IBOutlet weak var charts: CircleCharts!
 
