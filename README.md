@@ -1,6 +1,8 @@
 # CircleChartUI
 Swift - CircleChart UI 
 
+<img width="251" alt="스크린샷 2021-08-10 오전 9 29 11" src="https://user-images.githubusercontent.com/5070020/128790676-8d9421ba-a278-4e92-97e7-a01876e56325.png">
+
 ```swift
 import UIKit
 
